@@ -8,3 +8,10 @@ Foi utilizado animações nas janelas e portas, para abrir ao utilizar as teclas
 
 Além disso, foi inserido texturas no modelo.
 E por fim, foi adicionado um boneco que se movimenta com o teclado, que possui animações e conseguir ir em qualquer direção.
+
+Instruções:
+
+- O arquivo .FPJ é referente ao projeto na IDE Falcon C++;
+- Toda a lógica da aplicação / código está no main.cpp;
+- A biblioteca Glut precisa estar instalada;
+- As texturas se encontram na pasta /texturas.
