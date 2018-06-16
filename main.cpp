@@ -1,4 +1,4 @@
-// Atividade 4 - Felipe e Frederiko
+// Computação Gráfica - Felipe, Frederiko e Gabriel
 #include <GL/glut.h>
 #include <math.h>
 #include "tgaload.h"
